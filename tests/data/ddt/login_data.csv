@@ -1,0 +1,4 @@
+username,password,expected_result
+kuku,admin,failure
+admin,admin,success
+admin,12345,failure
